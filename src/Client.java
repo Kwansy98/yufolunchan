@@ -6,7 +6,7 @@ import java.net.Socket;
 import java.net.SocketAddress;
 import java.util.Scanner;
 
-public class Main {
+public class Client {
     private static SocketAddress socketAddress = new InetSocketAddress("gg.4fk.me", 6324);
     private static Socket socket = new Socket();
     private static BufferedReader in = null;

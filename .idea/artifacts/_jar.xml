@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="与佛论禅:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/_jar</output-path>
+    <root id="archive" name="与佛论禅.jar">
+      <element id="module-output" name="yufolunchan" />
+    </root>
+  </artifact>
+</component>

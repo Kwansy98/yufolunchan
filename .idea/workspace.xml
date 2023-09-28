@@ -6,19 +6,9 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96bf4334-b1ab-4ec8-a2fe-cb1749e8e93c" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+    <list default="true" id="96bf4334-b1ab-4ec8-a2fe-cb1749e8e93c" name="Default Changelist" comment="Some Variable names fixed and handle null value logic">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/META-INF/yufolunchan.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/TestBuddhism.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/BuddhismTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/BuddhismTools.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/TruthTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/TruthTable.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/utils/AESTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/utils/AESTools.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/utils/Base64Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/utils/Base64Tools.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/TestBuddhism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestBuddhism.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buddhism/BuddhismTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buddhism/BuddhismTools.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/buddhism/TruthTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buddhism/TruthTable.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -56,7 +46,7 @@
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
@@ -104,7 +94,16 @@
       <option name="presentableId" value="Default" />
       <updated>1572257634714</updated>
       <workItem from="1695891701464" duration="286000" />
+      <workItem from="1695892005441" duration="517000" />
     </task>
+    <task id="LOCAL-00001" summary="Some Variable names fixed and handle null value logic">
+      <created>1695892261354</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1695892261354</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -121,5 +120,9 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Some Variable names fixed and handle null value logic" />
+    <option name="LAST_COMMIT_MESSAGE" value="Some Variable names fixed and handle null value logic" />
   </component>
 </project>

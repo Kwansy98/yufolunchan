@@ -6,8 +6,20 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="96bf4334-b1ab-4ec8-a2fe-cb1749e8e93c" name="Default Changelist" comment="" />
-    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <list default="true" id="96bf4334-b1ab-4ec8-a2fe-cb1749e8e93c" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/META-INF/yufolunchan.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/TestBuddhism.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/BuddhismTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/BuddhismTools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/TruthTable.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/buddhism/TruthTable.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/utils/AESTools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/utils/AESTools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/yufolunchan/utils/Base64Tools.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/yufolunchan/utils/Base64Tools.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/TestBuddhism.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/TestBuddhism.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buddhism/BuddhismTools.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buddhism/BuddhismTools.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/buddhism/TruthTable.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/buddhism/TruthTable.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,36 +33,36 @@
     </option>
   </component>
   <component name="Git.Settings">
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="master" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="ProjectId" id="1SpPbN7jBjuHcOyLslFOOgWvF4W" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="UI_DESIGNER_EDITOR_MODE.PaletteManager.WIDTH" value="257" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="project.structure.last.edited" value="SDKs" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
     <property name="restartRequiresConfirmation" value="false" />
     <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Users\ASUS\IdeaProjects\与佛论禅\src" />
     </key>
-  </component>
-  <component name="RunDashboard">
-    <option name="ruleStates">
-      <list>
-        <RuleState>
-          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
-        </RuleState>
-        <RuleState>
-          <option name="name" value="StatusDashboardGroupingRule" />
-        </RuleState>
-      </list>
-    </option>
   </component>
   <component name="RunManager" selected="Application.TestBuddhism">
     <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
@@ -61,7 +73,7 @@
       </method>
     </configuration>
     <configuration name="TestBuddhism" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="TestBuddhism" />
+      <option name="MAIN_CLASS_NAME" value="test.TestBuddhism" />
       <module name="yufolunchan" />
       <extension name="coverage">
         <pattern>
@@ -80,6 +92,7 @@
       </list>
     </recent_temporary>
   </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -90,20 +103,23 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1572257634714</updated>
+      <workItem from="1695891701464" duration="286000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
       <map>
         <entry key="MAIN">
           <value>
-            <State>
-              <option name="COLUMN_ORDER" />
-            </State>
+            <State />
           </value>
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
 </project>

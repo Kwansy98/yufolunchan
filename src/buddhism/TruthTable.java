@@ -7,11 +7,14 @@ public class TruthTable {
     private static HashMap<String, String> map = new HashMap<>();
 
     public static TruthTable getInstance() {
-        if (instance != null) return instance;
+        if (instance != null) {
+            return instance;
+        }
         return new TruthTable();
     }
 
     private TruthTable() {
+//        decode table
         map.put("啰", "e");
         map.put("羯", "E");
         map.put("婆", "t");
@@ -78,6 +81,7 @@ public class TruthTable {
         map.put("输", "/");
         map.put("漫", "=");
 
+//        encode table
         map.put("e", "啰");
         map.put("E", "羯");
         map.put("t", "婆");
